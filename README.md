@@ -1,4 +1,6 @@
 # Ingredientsapp
+![image](https://user-images.githubusercontent.com/108543684/193092680-88be8d1a-6eb8-4e86-ae75-b0baf364df34.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
 
